@@ -50,7 +50,7 @@ Developed by: RegisterNumber:
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
 **RESULTS**
-
+Therefore the code has been successfully executed.
 
 
 
