@@ -50,7 +50,9 @@ assign a1 = d2 | d3 | d6 | d7;
 assign a2 = d4 | d5 | d6 | d7;
 endmodule
 ```
+```
 Developed by:Keerthika.s RegisterNumber:212223040093
+```
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
